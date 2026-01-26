@@ -14,6 +14,7 @@ A curated collection of Docker learning paths, tutorials, and resources for deve
 - [AI & Advanced Development](#ai--advanced-development)
 - [DevOps & Cloud Integration](#devops--cloud-integration)
 - [Additional Learning Platforms](#additional-learning-platforms)
+- [Latest from the Docker Blog](#latest-from-the-docker-blog)
 - [Additional Resources](#additional-resources)
 
 ---
@@ -114,6 +115,17 @@ Earn a Docker Foundations Professional Certificate from LinkedIn Learning after 
 Docker-endorsed content on Udemy enables developers and teams to train up on Docker basics. If you have a Udemy Business subscription, you can access these endorsed courses.
 
 🔗 [Docker Endorsed Content on Udemy](http://business.udemy.com/docker-endorsed-content/)
+
+---
+
+## 📰 Latest from the Docker Blog
+
+Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[View all Docker blog posts →](https://www.docker.com/blog/)
 
 ---
 
