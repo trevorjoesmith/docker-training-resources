@@ -1,0 +1,47 @@
+/**
+ * Custom CSS for Docker Training Resources
+ */
+
+:root {
+  --ifm-color-primary: #2496ed;
+  --ifm-color-primary-dark: #1d7cc7;
+  --ifm-color-primary-darker: #1a73bc;
+  --ifm-color-primary-darkest: #145f9b;
+  --ifm-color-primary-light: #3ba5f3;
+  --ifm-color-primary-lighter: #4baef4;
+  --ifm-color-primary-lightest: #73c0f7;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #3ba5f3;
+  --ifm-color-primary-dark: #1d90ef;
+  --ifm-color-primary-darker: #1287e8;
+  --ifm-color-primary-darkest: #0f70bf;
+  --ifm-color-primary-light: #5db5f5;
+  --ifm-color-primary-lighter: #6ebdf6;
+  --ifm-color-primary-lightest: #90cef8;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Docker branding colors */
+.docker-blue {
+  color: #2496ed;
+}
+
+.hero--primary {
+  background: linear-gradient(135deg, #2496ed 0%, #1d7cc7 100%);
+}
+
+/* Custom styling for cards */
+.card {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
