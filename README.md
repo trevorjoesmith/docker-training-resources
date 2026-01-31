@@ -123,6 +123,8 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Sandboxes: Run Claude Code and Other Coding Agents Unsupervised &lpar;but Safely&rpar;](https://www.docker.com/blog/docker-sandboxes-run-claude-code-and-other-coding-agents-unsupervised-but-safely/) 
+
 - [Clawdbot with Docker Model Runner, a Private Personal AI Assistant](https://www.docker.com/blog/clawdbot-docker-model-runner-private-personal-ai/) 
 
 - [Run Claude Code Locally with Docker Model Runner](https://www.docker.com/blog/run-claude-code-locally-docker-model-runner/) 
@@ -130,8 +132,6 @@ Stay up-to-date with the latest Docker news, tutorials, and announcements. This 
 - [Making the Most of Your Docker Hardened Images Enterprise Trial – Part 3](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-enterprise-trial-part-3/) 
 
 - [Making the Most of Your Docker Hardened Images Enterprise Trial – Part 2](https://www.docker.com/blog/making-the-most-of-your-docker-hardened-images-enterprise-trial-part-2/) 
-
-- [How to Automate Arm Migration with Docker MCP Toolkit, VS Code, and GitHub Copilot](https://www.docker.com/blog/automate-arm-migration-docker-mcp-copilot/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
