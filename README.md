@@ -123,6 +123,8 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Model Runner Brings vLLM to macOS with Apple Silicon](https://www.docker.com/blog/docker-model-runner-vllm-metal-macos/) 
+
 - [Open WebUI + Docker Model Runner: Self-Hosted Models, Zero Configuration](https://www.docker.com/blog/openwebui-docker-model-runner/) 
 
 - [From the Captain’s Chair: Kristiyan Velkov](https://www.docker.com/blog/from-the-captains-chair-kristiyan-velkov/) 
@@ -130,8 +132,6 @@ Stay up-to-date with the latest Docker news, tutorials, and announcements. This 
 - [Gordon &lpar;Beta&rpar;: Docker’s AI Agent Just Got an Update](https://www.docker.com/blog/gordon-dockers-ai-agent-just-got-an-update/) 
 
 - [Run OpenClaw Securely in Docker Sandboxes](https://www.docker.com/blog/run-openclaw-securely-in-docker-sandboxes/) 
-
-- [State of Agentic AI Report: Key Findings](https://www.docker.com/blog/state-of-agentic-ai-key-findings/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
