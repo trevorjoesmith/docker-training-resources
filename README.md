@@ -123,6 +123,8 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s Holding Back AI Agents? It’s Still Security](https://www.docker.com/blog/whats-holding-back-ai-agents-its-still-security/) 
+
 - [Celebrating Women in AI: 3 Questions with Cecilia Liu on Leading Docker’s MCP Strategy](https://www.docker.com/blog/women-in-ai-cecilia-liu-docker-mcp-strategy/) 
 
 - [Announcing Docker Hardened System Packages](https://www.docker.com/blog/announcing-docker-hardened-system-packages/) 
@@ -130,8 +132,6 @@ Stay up-to-date with the latest Docker news, tutorials, and announcements. This 
 - [Docker Model Runner Brings vLLM to macOS with Apple Silicon](https://www.docker.com/blog/docker-model-runner-vllm-metal-macos/) 
 
 - [Open WebUI + Docker Model Runner: Self-Hosted Models, Zero Configuration](https://www.docker.com/blog/openwebui-docker-model-runner/) 
-
-- [From the Captain’s Chair: Kristiyan Velkov](https://www.docker.com/blog/from-the-captains-chair-kristiyan-velkov/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
