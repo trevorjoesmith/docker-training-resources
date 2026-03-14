@@ -123,15 +123,15 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [Achieving Test Reliability for Native E2E Testing: Beyond Fixing Broken Tests](https://www.docker.com/blog/native-e2e-test-reliability/) 
+
+- [How to Run Claude Code with Docker: Local Models, MCP Servers, and Secure Sandboxes](https://www.docker.com/blog/run-claude-code-with-docker/) 
+
+- [Secure Agent Execution with NanoClaw and Docker Sandboxes](https://www.docker.com/blog/nanoclaw-docker-sandboxes-agent-security/) 
+
 - [Flexibility Over Lock-In: The Enterprise Shift in Agent Strategy](https://www.docker.com/blog/enterprise-shift-in-agent-strategy/) 
 
 - [Building AI Teams: How Docker Sandboxes and Docker Agent Transform Development](https://www.docker.com/blog/building-ai-teams-docker-sandboxes-agent/) 
-
-- [What’s Holding Back AI Agents? It’s Still Security](https://www.docker.com/blog/whats-holding-back-ai-agents-its-still-security/) 
-
-- [Celebrating Women in AI: 3 Questions with Cecilia Liu on Leading Docker’s MCP Strategy](https://www.docker.com/blog/women-in-ai-cecilia-liu-docker-mcp-strategy/) 
-
-- [Announcing Docker Hardened System Packages](https://www.docker.com/blog/announcing-docker-hardened-system-packages/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
