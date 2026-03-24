@@ -123,6 +123,8 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [Trivy supply chain compromise: What Docker Hub users should know](https://www.docker.com/blog/trivy-supply-chain-compromise-what-docker-hub-users-should-know/) 
+
 - [From the Captain’s Chair: Naga Santhosh Reddy Vootukuri](https://www.docker.com/blog/from-the-captains-chair-naga-santhosh-reddy-vootukuri/) 
 
 - [Achieving Test Reliability for Native E2E Testing: Beyond Fixing Broken Tests](https://www.docker.com/blog/native-e2e-test-reliability/) 
@@ -130,8 +132,6 @@ Stay up-to-date with the latest Docker news, tutorials, and announcements. This 
 - [How to Run Claude Code with Docker: Local Models, MCP Servers, and Secure Sandboxes](https://www.docker.com/blog/run-claude-code-with-docker/) 
 
 - [Secure Agent Execution with NanoClaw and Docker Sandboxes](https://www.docker.com/blog/nanoclaw-docker-sandboxes-agent-security/) 
-
-- [Flexibility Over Lock-In: The Enterprise Shift in Agent Strategy](https://www.docker.com/blog/enterprise-shift-in-agent-strategy/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
