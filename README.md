@@ -123,15 +123,15 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [Defending Your Software Supply Chain: What Every Engineering Team Should Do Now](https://www.docker.com/blog/defending-your-software-supply-chain-what-every-engineering-team-should-do-now/) 
+
+- [Gemma 4 is Here: Now Available on Docker Hub](https://www.docker.com/blog/gemma4-dockerhub/) 
+
+- [Docker Offload now Generally Available: The Full Power of Docker, for Every Developer, Everywhere.](https://www.docker.com/blog/docker-offload-now-generally-available-the-full-power-of-docker-for-every-developer-everywhere/) 
+
 - [Run and Iterate on LLMs Faster with Docker Model Runner on DGX Station](https://www.docker.com/blog/blog-docker-model-runner-new-nvidia-dgx-station/) 
 
 - [Docker Sandboxes: Run Agents in YOLO Mode, Safely](https://www.docker.com/blog/docker-sandboxes-run-agents-in-yolo-mode-safely/) 
-
-- [Building a News Roundup with Docker Agent, Docker Model Runner, and Skill](https://www.docker.com/blog/building-a-news-roundup-with-docker-agent-docker-model-runner-and-skill/) 
-
-- [Trivy supply chain compromise: What Docker Hub users should know](https://www.docker.com/blog/trivy-supply-chain-compromise-what-docker-hub-users-should-know/) 
-
-- [From the Captain’s Chair: Naga Santhosh Reddy Vootukuri](https://www.docker.com/blog/from-the-captains-chair-naga-santhosh-reddy-vootukuri/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
