@@ -123,6 +123,8 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [Meet Gordon: Docker’s AI Agent For Your Entire Container Workflow](https://www.docker.com/blog/meet-gordon-dockers-ai-agent-for-your-entire-container-workflow/) 
+
 - [Coding Agent Horror Stories: The Security Crisis Threatening Developer Infrastructure](https://www.docker.com/blog/ai-coding-agent-horror-stories-security-risks/) 
 
 - [Custom MCP Catalogs and Profiles: Advancing Enterprise MCP Adoption](https://www.docker.com/blog/create-custom-mcp-catalogs-and-profiles/) 
@@ -130,8 +132,6 @@ Stay up-to-date with the latest Docker news, tutorials, and announcements. This 
 - [NIST Narrows the NVD: What Container Security Programs Should Reassess](https://www.docker.com/blog/nist-narrows-the-nvd-what-container-security-programs-should-reassess/) 
 
 - [Docker AI Governance: Unlock Agent Autonomy, Safely](https://www.docker.com/blog/docker-ai-governance-unlock-agent-autonomy-safely/) 
-
-- [Comparing Different Approaches to Sandboxing](https://www.docker.com/blog/comparing-sandboxing-approaches-ai-agents/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
