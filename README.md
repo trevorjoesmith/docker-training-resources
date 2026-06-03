@@ -123,6 +123,8 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Secure AI Agents: A Practical Overview for Development Teams](https://www.docker.com/blog/how-to-secure-ai-agents/) 
+
 - [What is Sandbox Security?](https://www.docker.com/blog/what-is-sandbox-security/) 
 
 - [Coding Agent Horror Stories: The rm -rf ~/ Incident](https://www.docker.com/blog/coding-agent-horror-stories-the-rm-rf-incident/) 
@@ -130,8 +132,6 @@ Stay up-to-date with the latest Docker news, tutorials, and announcements. This 
 - [Mitigating CVE-2026-31431 &lpar;“Copy Fail”&rpar; in Docker Engine](https://www.docker.com/blog/mitigating-cve-2026-31431-copy-fail-in-docker-engine/) 
 
 - [The Untrusted Autonomous Workload: How AI Coding Agents Reshape What Isolation Has to Do](https://www.docker.com/blog/untrusted-autonomous-workload-ai-sandboxes/) 
-
-- [Meet Gordon: Docker’s AI Agent For Your Entire Container Workflow](https://www.docker.com/blog/meet-gordon-dockers-ai-agent-for-your-entire-container-workflow/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
