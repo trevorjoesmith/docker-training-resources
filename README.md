@@ -123,6 +123,8 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [What is AI Governance? Frameworks, Principles, and Best Practices](https://www.docker.com/blog/what-is-ai-governance/) 
+
 - [Hardened Images Explained: Fewer CVEs, Smaller Attack Surface](https://www.docker.com/blog/what-are-hardened-images/) 
 
 - [What is Software Supply Chain Security?](https://www.docker.com/blog/what-is-software-supply-chain-security/) 
@@ -130,8 +132,6 @@ Stay up-to-date with the latest Docker news, tutorials, and announcements. This 
 - [How to Secure AI Agents: A Practical Overview for Development Teams](https://www.docker.com/blog/how-to-secure-ai-agents/) 
 
 - [What is Sandbox Security?](https://www.docker.com/blog/what-is-sandbox-security/) 
-
-- [Coding Agent Horror Stories: The rm -rf ~/ Incident](https://www.docker.com/blog/coding-agent-horror-stories-the-rm-rf-incident/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
