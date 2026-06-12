@@ -123,6 +123,8 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido](https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/) 
+
 - [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/) 
 
 - [What is AI Governance? Frameworks, Principles, and Best Practices](https://www.docker.com/blog/what-is-ai-governance/) 
@@ -130,8 +132,6 @@ Stay up-to-date with the latest Docker news, tutorials, and announcements. This 
 - [Hardened Images Explained: Fewer CVEs, Smaller Attack Surface](https://www.docker.com/blog/what-are-hardened-images/) 
 
 - [What is Software Supply Chain Security?](https://www.docker.com/blog/what-is-software-supply-chain-security/) 
-
-- [How to Secure AI Agents: A Practical Overview for Development Teams](https://www.docker.com/blog/how-to-secure-ai-agents/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
