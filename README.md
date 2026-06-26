@@ -123,15 +123,15 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Generate an SBOM for Container Workflows](https://www.docker.com/blog/sbom-generation-for-container-workflows/) 
+
+- [EU Cyber Resilience Act: Overview, Requirements, and Timelines](https://www.docker.com/blog/eu-cyber-resilience-act-overview/) 
+
 - [What is an SBOM &lpar;and Why Can’t You Ship Without One&rpar;?](https://www.docker.com/blog/what-is-an-sbom/) 
 
 - [Docker Content Trust: Retirement and Migration Guidance](https://www.docker.com/blog/docker-content-trust-retirement-and-migration-guidance/) 
 
 - [Docker joins the Athena coalition: a cross-industry collaboration for supply chain security](https://www.docker.com/blog/docker-joins-the-athena-coalition-a-cross-industry-collaboration-for-supply-chain-security/) 
-
-- [Docker Hardened Images enhanced vulnerability scanning with Docker and Aikido](https://www.docker.com/blog/docker-hardened-images-enhanced-vulnerability-scanning-with-docker-and-aikido/) 
-
-- [5 Software Supply Chain Security Best Practices for Development Teams](https://www.docker.com/blog/software-supply-chain-security-best-practices/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
