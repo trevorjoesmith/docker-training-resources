@@ -123,6 +123,8 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Laptop Is the New Production Environment](https://www.docker.com/blog/your-laptop-is-the-new-production-environment/) 
+
 - [Why AI Agents Need Isolation](https://www.docker.com/blog/why-ai-agents-need-isolation/) 
 
 - [What Does EU AI Act Compliance Require?](https://www.docker.com/blog/eu-ai-act-compliance/) 
@@ -130,8 +132,6 @@ Stay up-to-date with the latest Docker news, tutorials, and announcements. This 
 - [How to Generate an SBOM for Container Workflows](https://www.docker.com/blog/sbom-generation-for-container-workflows/) 
 
 - [EU Cyber Resilience Act: Overview, Requirements, and Timelines](https://www.docker.com/blog/eu-cyber-resilience-act-overview/) 
-
-- [What is an SBOM &lpar;and Why Can’t You Ship Without One&rpar;?](https://www.docker.com/blog/what-is-an-sbom/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
