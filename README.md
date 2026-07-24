@@ -125,13 +125,13 @@ Stay up-to-date with the latest Docker news, tutorials, and announcements. This 
 <!-- BLOG-POST-LIST:START -->
 - [Runtime Enforcement, Not Runtime Advice](https://www.docker.com/blog/runtime-enforcement-not-runtime-advice/) 
 
-- [Agentic AI Needs Guardrails, Not Guesswork](https://www.docker.com/blog/agentic-ai-security-ciso-panel/) 
-
 - [Coding Agent Horror Stories: The Agent That Deleted Production](https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/) 
 
 - [From the Captain’s Chair: Mohammad-Ali A’râbi](https://www.docker.com/blog/from-the-captains-chair-mohammad-ali-arabi/) 
 
 - [AI Agents Explained: How to Build with Them Safely](https://www.docker.com/blog/what-are-ai-agents/) 
+
+- [The Developer Has Changed. So Should Developer Conferences](https://www.docker.com/blog/docker-wearedevelopers-world-congress-north-america-2026/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
