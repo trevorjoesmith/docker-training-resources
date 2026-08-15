@@ -123,6 +123,8 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [Reproducible ESP32 Firmware Development with Docker and Docker Sandboxes](https://www.docker.com/blog/reproducible-esp32-firmware-development-with-docker-and-docker-sandboxes/) 
+
 - [Docker VMM Public Beta: A Complete Overhaul, Built for Performance](https://www.docker.com/blog/docker-vmm-public-beta/) 
 
 - [A new security baseline for enterprise agentic adoption](https://www.docker.com/blog/a-new-security-baseline-for-enterprise-agentic-adoption/) 
@@ -130,8 +132,6 @@ Stay up-to-date with the latest Docker news, tutorials, and announcements. This 
 - [Governance Is a Developer Experience Problem](https://www.docker.com/blog/governance-is-a-developer-experience-problem/) 
 
 - [The Software Supply Chain Is Under Siege. Devs Are Still the First Line of Defense](https://www.docker.com/blog/software-supply-chain-security-omdia-2026-report/) 
-
-- [Empty sandboxes break developer experience](https://www.docker.com/blog/empty-sandboxes-break-developer-experience/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
