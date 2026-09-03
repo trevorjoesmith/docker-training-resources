@@ -123,15 +123,15 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Reproducible AI Evaluation Workflows with Docker Sandboxes](https://www.docker.com/blog/building-reproducible-ai-evaluation-workflows-with-docker-sandboxes/) 
+
+- [Below the Harness: Governing a Multi-Model, Multi-Harness World](https://www.docker.com/blog/below-the-harness-governing-a-multi-model-multi-harness-world/) 
+
 - [Secure by default is your only way forward](https://www.docker.com/blog/secure-by-default-is-your-only-way-forward/) 
 
 - [Moving from Minimus to Docker Hardened Images](https://www.docker.com/blog/moving-from-minimus-to-docker-hardened-images/) 
 
 - [MinIO End of Life: How to Stay Patched and Audit-Ready with Docker ELS](https://www.docker.com/blog/minio-end-of-life-how-to-stay-patched-and-audit-ready-with-docker-els/) 
-
-- [Running AI agents in GitHub Actions with Docker Sandboxes](https://www.docker.com/blog/running-ai-agents-in-github-actions-with-docker-sandboxes/) 
-
-- [Docker Verified Publisher Applications Are Now Self-Serve](https://www.docker.com/blog/docker-verified-publisher-applications-are-now-self-serve/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
