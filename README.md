@@ -123,6 +123,8 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Benefits of Sandbox Environments &lpar;and How Docker Sandboxes Delivers Them&rpar;](https://www.docker.com/blog/benefits-of-sandbox-environments/) 
+
 - [YOLO Mode: Agent Autonomy Without the Guardrails](https://www.docker.com/blog/what-is-yolo-mode/) 
 
 - [Building Reproducible AI Evaluation Workflows with Docker Sandboxes](https://www.docker.com/blog/building-reproducible-ai-evaluation-workflows-with-docker-sandboxes/) 
@@ -130,8 +132,6 @@ Stay up-to-date with the latest Docker news, tutorials, and announcements. This 
 - [Below the Harness: Governing a Multi-Model, Multi-Harness World](https://www.docker.com/blog/below-the-harness-governing-a-multi-model-multi-harness-world/) 
 
 - [Secure by default is your only way forward](https://www.docker.com/blog/secure-by-default-is-your-only-way-forward/) 
-
-- [Moving from Minimus to Docker Hardened Images](https://www.docker.com/blog/moving-from-minimus-to-docker-hardened-images/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
