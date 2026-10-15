@@ -123,15 +123,15 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own](https://www.docker.com/blog/ai-agent-security-risks/) 
+
+- [Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals](https://www.docker.com/blog/harbor-docker-sandboxes-run-safe-reproducible-agent-evals/) 
+
 - [Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions](https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/) 
 
 - [Trust Docker for the agents you don’t](https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/) 
 
 - [Manufacturing Trust for AI Agents | Docker’s WeAreDevelopers Keynote](https://www.docker.com/blog/manufacturing-trust-for-ai-agents-keynote/) 
-
-- [From Dockerfile to Kit: the Docker Sandboxes Kit Specification](https://www.docker.com/blog/docker-sandbox-kit-spec/) 
-
-- [Docker and CNCF partner on an open spec for agent permissions](https://www.docker.com/blog/docker-sandbox-kit-spec-cncf/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
