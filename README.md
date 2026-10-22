@@ -123,15 +123,15 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.](https://www.docker.com/blog/band-ai-agents-docker-sandboxes/) 
+
+- [From baseline to Secure Software Factory: securing the systems that build your software](https://www.docker.com/blog/from-baseline-to-secure-software-factory-securing-the-systems-that-build-your-software/) 
+
 - [From Containers to Sandboxes: Developer Trust in the Agentic Era](https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/) 
 
 - [AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own](https://www.docker.com/blog/ai-agent-security-risks/) 
 
 - [Harbor + Docker Sandboxes: Run Safe, Reproducible Agent Evals](https://www.docker.com/blog/harbor-docker-sandboxes-run-safe-reproducible-agent-evals/) 
-
-- [Docker Hub security advisory: personal access tokens transferred during account-to-organization conversions](https://www.docker.com/blog/docker-hub-security-advisory-cve-2026-105445/) 
-
-- [Trust Docker for the agents you don’t](https://www.docker.com/blog/docker-cloud-sandboxes-wearedevelopers-recap/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
