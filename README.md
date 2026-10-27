@@ -123,15 +123,15 @@ Docker-endorsed content on Udemy enables developers and teams to train up on Doc
 Stay up-to-date with the latest Docker news, tutorials, and announcements. This section is automatically updated daily.
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP2Shell and eMudhra Patched](https://www.docker.com/blog/php2shell-and-emudhra-patched/) 
+
 - [Security Update on PHP2Shell: Impact for Docker Customers](https://www.docker.com/blog/security-update-on-php2shell-impact-for-docker-customers/) 
 
 - [ActiveState Partners with Docker to Secure the Open Source in Enterprise Containers](https://www.docker.com/blog/docker-activestate-partnership/) 
 
 - [Your Agent Runs in a Docker Sandbox. Now It Can Join a Team.](https://www.docker.com/blog/band-ai-agents-docker-sandboxes/) 
 
-- [From Containers to Sandboxes: Developer Trust in the Agentic Era](https://www.docker.com/blog/stack-overflow-survey-2026-ai-agent-trust/) 
-
-- [AI Agent Security Risks: What Can Go Wrong When Agents Act on Their Own](https://www.docker.com/blog/ai-agent-security-risks/) 
+- [From baseline to Secure Software Factory: securing the systems that build your software](https://www.docker.com/blog/from-baseline-to-secure-software-factory-securing-the-systems-that-build-your-software/) 
 <!-- BLOG-POST-LIST:END -->
 
 [View all Docker blog posts →](https://www.docker.com/blog/)
